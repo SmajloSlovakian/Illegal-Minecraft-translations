@@ -1,1 +1,11 @@
-{}
+{
+  "disconnect.endOfStream": "Fine del flusso dati",
+  "soundCategory.neutral": "Creature amichevoli",
+  "options.biomeBlendRadius": "Transizione tra biomi",
+  "options.biomeBlendRadius.1": "No (molto semplice)",
+  "death.attack.wither": "%1$s è avvizzito/a",
+  "death.attack.wither.player": "%1$s è avvizzito/a lottando con %2$s",
+  "death.attack.witherSkull": "%1$s è stato/a colpito/a da un teschio di %2$s",
+  "effect.minecraft.wither": "Avvizzimento",
+  "advMode.mode.redstone": "A impulso"
+}

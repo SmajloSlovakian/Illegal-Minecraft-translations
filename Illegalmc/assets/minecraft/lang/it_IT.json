@@ -1,1 +1,15 @@
-{}
+{
+  "block.minecraft.redstone_wire": "Cavo di pietrarossa",
+  "block.minecraft.redstone_ore": "Minerale di pietrarossa",
+  "block.minecraft.deepslate_redstone_ore": "Minerale di pietrarossa in ardesia profonda",
+  "block.minecraft.redstone_torch": "Torcia di pietrarossa",
+  "block.minecraft.redstone_wall_torch": "Torcia di pietrarossa a parete",
+  "block.minecraft.redstone_lamp": "Lampada a pietrarossa",
+  "block.minecraft.redstone_block": "Blocco di pietrarossa",
+  "item.minecraft.redstone": "Polvere di pietrarossa",
+  "block.minecraft.repeater": "Ripetitore di pietrarossa",
+  "block.minecraft.comparator": "Comparatore di pietrarossa",
+  "itemGroup.redstone": "Pietrarossa",
+  "advMode.mode.redstoneTriggered": "Serve pietrarossa",
+  "subtitles.block.redstone_torch.burnout": "Torcia di pietrarossa bruciata"
+}

@@ -103,6 +103,7 @@
   "death.attack.wither.player": "%1$s висох зовсім поки боровся з %2$s",
   "death.attack.witherSkull": "%1$s був збитий черепом %2$s",
   "effect.minecraft.wither": "Висушування",
+  "subtitles.entity.wither.ambient": "Висушувач злиться",
   "subtitles.entity.wither.death": "Висушувач помирає",
   "subtitles.entity.wither.hurt": "Висушувача поранено",
   "subtitles.entity.wither.shoot": "Висушувач атакує",

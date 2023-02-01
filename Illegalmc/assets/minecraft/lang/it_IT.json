@@ -1,4 +1,12 @@
 {
+  "options.realmsNotifications": "Notifiche dei reami",
+  "title.multiplayer.realms": "Multigiocatore (Reami)",
+  "block.minecraft.purpur_block": "Blocco di porpora",
+  "block.minecraft.purpur_pillar": "Pilastro di porpora",
+  "block.minecraft.purpur_stairs": "Scalini di porpora",
+  "block.minecraft.purpur_slab": "Lastra di porpora",
+  "advancements.story.enter_the_nether.description": "Costruisci, attiva e attraversa un portale degli Inferi",
+  "biome.minecraft.nether_wastes": "Verruca degli Inferi",
   "block.minecraft.redstone_wire": "Cavo di pietrarossa",
   "block.minecraft.redstone_ore": "Minerale di pietrarossa",
   "block.minecraft.deepslate_redstone_ore": "Minerale di pietrarossa in ardesia profonda",

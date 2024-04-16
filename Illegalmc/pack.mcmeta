@@ -1,6 +1,7 @@
 {
 	"pack": {
-		"pack_format": 8,
-		"description": "Ignore glossary; have a complete freedom!"
+		"pack_format": 16,
+		"supported_formats": {"min_inclusive": 16, "max_inclusive": 31},
+		"description": "Screw the glossary, embrace creativity!"
 	}
 }

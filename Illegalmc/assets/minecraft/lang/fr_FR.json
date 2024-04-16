@@ -1,1 +1,15 @@
-{}
+{
+  "entity.minecraft.hoglin": "Hoglin",
+  "entity.minecraft.zoglin": "Zoglin",
+  "item.minecraft.hoglin_spawn_egg": "Oeuf d'apparition de Hoglin",
+  "item.minecraft.zoglin_spawn_egg": "Oeuf d'apparition de Zoglin",
+  "subtitles.entity.hoglin.ambient": "Hoglin grogne",
+  "subtitles.entity.hoglin.angry": "Hoglin grogne de colère",
+  "subtitles.entity.hoglin.converted_to_zombified": "Hoglin se convertit en Zoglin",
+  "subtitles.entity.zoglin.ambient": "Zoglin grogne",
+  "subtitles.entity.zoglin.angry": "Zoglin grogne de colère",
+  "subtitles.entity.zoglin.attack": "Zoglin attaque",
+  "subtitles.entity.zoglin.death": "Zoglin meurt",
+  "subtitles.entity.zoglin.hurt": "Les Zoglins font des dégâts",
+  "subtitles.entity.zoglin.step": "Zoglin marche"
+}

@@ -1,1 +1,5 @@
-{}
+{
+  "entity.minecraft.mooshroom": "Muchokrávka",
+  "item.minecraft.mooshroom_spawn_egg": "Vajíčko s muchokrávkou",
+  "subtitles.entity.mooshroom.eat": "Jedenie muchokrávky"
+}

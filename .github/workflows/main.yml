@@ -1,12 +1,15 @@
-on:
-  push:
+name: Publish to Modrinth
+on: [ push, workflow_dispatch ]
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Kir-Antipov/mc-publish@v3.3
+      - name: Publishing to Modrinth
+        uses: Kir-Antipov/mc-publish@v3.3
         with:
           # Only include this section if you wish to publish
           # your assets on Modrinth.
           modrinth-id: illegal-mct
-          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+          modrinth-token: "${{secrets.MODRINTH_TOKEN}}"
+          name: "${{env.RELEASE_NAME}}"
+          version: "${{env.VERSION}}"

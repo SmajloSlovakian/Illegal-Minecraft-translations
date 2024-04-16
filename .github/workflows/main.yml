@@ -8,5 +8,5 @@ jobs:
         with:
           # Only include this section if you wish to publish
           # your assets on Modrinth.
-          modrinth-id: AANobbMI
+          modrinth-id: illegal-mct
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}

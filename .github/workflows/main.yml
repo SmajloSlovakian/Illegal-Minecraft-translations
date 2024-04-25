@@ -6,9 +6,9 @@ jobs:
     steps:
       - name: Zip Folder
         run: |
-          ls
+          pwd
           rm -rf IllegalMCT.zip
-          zip -r IllegalMCT.zip .
+          zip -r IllegalMCT.zip . -i .
           
       - name: Publishing to Modrinth
         uses: Kir-Antipov/mc-publish@v3.3

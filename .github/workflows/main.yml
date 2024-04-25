@@ -15,7 +15,7 @@ jobs:
         with:
           # Only include this section if you wish to publish
           # your assets on Modrinth.
-          modrinth-id: "illegal-mct"
+          modrinth-id: '"illegal-mct"'
           modrinth-token: "${{secrets.MODRINTH_TOKEN}}"
           name: "releasenameoption" #${{env.RELEASE_NAME}}
           version: "versionoption" #${{env.VERSION}}

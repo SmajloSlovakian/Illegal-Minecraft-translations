@@ -21,5 +21,6 @@ jobs:
           # your assets on Modrinth.
           modrinth-id: illegal-mct
           modrinth-token: "${{secrets.MODRINTH_TOKEN}}"
-          name: "${{env.RELEASE_NAME}}"
-          version: "${{env.VERSION}}"
+          name: "releasenameoption" #${{env.RELEASE_NAME}}
+          version: "versionoption" #${{env.VERSION}}
+          files: "Illegalmc/IllegalMCT.zip"

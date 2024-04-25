@@ -13,7 +13,7 @@ jobs:
           ls
           rm -rf IllegalMCT.zip
           zip -0 -r IllegalMCT.zip .
-          
+          unzip -l IllegalMCT.zip
       - name: Publishing to Modrinth
         uses: Kir-Antipov/mc-publish@v3.3
         with:

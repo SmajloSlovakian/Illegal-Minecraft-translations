@@ -6,6 +6,8 @@ jobs:
     steps:
       - name: Zip Folder
         run: |
+          pwd
+          ls
           rm -rf IllegalMCT.zip
           zip -r IllegalMCT.zip -i Illegalmc
           

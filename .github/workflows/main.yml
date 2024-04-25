@@ -8,10 +8,11 @@ jobs:
         uses: actions/checkout@v4
       - name: Zip Folder
         run: |
+          cd Illegalmc
           pwd
           ls
           rm -rf IllegalMCT.zip
-          zip -0 -r IllegalMCT.zip Illegalmc -i *
+          zip -0 -r IllegalMCT.zip .
           
       - name: Publishing to Modrinth
         uses: Kir-Antipov/mc-publish@v3.3

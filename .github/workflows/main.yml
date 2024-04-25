@@ -10,7 +10,6 @@ jobs:
           sparse-checkout: .
       - name: Zip Folder
         run: |
-          cd ../
           ls
           pwd
           rm -rf IllegalMCT.zip

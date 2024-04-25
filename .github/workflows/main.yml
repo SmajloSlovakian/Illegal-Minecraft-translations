@@ -1,9 +1,14 @@
 name: Publish to Modrinth
-on: [ push, workflow_dispatch ]
+on: [ workflow_dispatch ]
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Zip Folder
+        run: |
+          rm -rf IllegalMCT.zip
+          zip -r IllegalMCT.zip Illegalmc/*
+          
       - name: Publishing to Modrinth
         uses: Kir-Antipov/mc-publish@v3.3
         with:

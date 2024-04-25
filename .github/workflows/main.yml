@@ -1,9 +1,13 @@
 name: Publish to Modrinth
-on: [ workflow_dispatch ]
+on: [ workflow_dispatch, push ]
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Fetch
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: .
       - name: Zip Folder
         run: |
           cd ../

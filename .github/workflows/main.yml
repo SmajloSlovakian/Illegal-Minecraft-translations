@@ -9,7 +9,7 @@ jobs:
           pwd
           ls
           rm -rf IllegalMCT.zip
-          zip -r IllegalMCT.zip . -i Illegalmc
+          zip -r IllegalMCT.zip .
           
       - name: Publishing to Modrinth
         uses: Kir-Antipov/mc-publish@v3.3

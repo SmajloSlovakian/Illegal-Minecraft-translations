@@ -18,6 +18,6 @@ jobs:
           modrinth-id: 'illegal-mct'
           modrinth-token: "${{secrets.MODRINTH_TOKEN}}"
           name: "releasenameoption" #${{env.RELEASE_NAME}}
-          version: "versionoption" #${{env.VERSION}}
+          version: "1.20.5" #${{env.VERSION}}
           files: "Illegalmc/IllegalMCT.zip"
           loaders: "vanilla"

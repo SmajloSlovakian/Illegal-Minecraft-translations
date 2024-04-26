@@ -10,6 +10,9 @@ jobs:
         run: |
           cd Illegalmc
           zip -0 -r IllegalMCT.zip .
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
       - name: Publishing to Modrinth
         uses: Kir-Antipov/mc-publish@v3.3
         with:
@@ -17,7 +20,7 @@ jobs:
           # your assets on Modrinth.
           modrinth-id: 'illegal-mct'
           modrinth-token: "${{secrets.MODRINTH_TOKEN}}"
-          name: "releasenameoption" #${{env.RELEASE_NAME}}
+          name: "${{steps.date.outputs.date}}" #${{env.RELEASE_NAME}}
           version: "1.20.5" #${{env.VERSION}}
           files: "Illegalmc/IllegalMCT.zip"
           loaders: "minecraft"

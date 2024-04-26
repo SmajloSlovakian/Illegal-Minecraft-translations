@@ -20,4 +20,4 @@ jobs:
           name: "releasenameoption" #${{env.RELEASE_NAME}}
           version: "1.20.5" #${{env.VERSION}}
           files: "Illegalmc/IllegalMCT.zip"
-          #loaders: "resourcepack"
+          loaders: ""

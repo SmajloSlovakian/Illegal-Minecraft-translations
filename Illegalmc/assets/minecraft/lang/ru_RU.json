@@ -1,1 +1,18 @@
-{}
+{
+  "advancements.end.kill_dragon.title": "Освободите Край",
+  "advancements.end.respawn_dragon.title": "Дежавю",
+  "advancements.end.root.title": "Конец?",
+  "advancements.nether.root.title": "Нижний мир",
+  "advancements.nether.summon_wither.description": "Призовите иссушителя",
+  "biome.minecraft.the_end": "Край",
+  "block.minecraft.wither_rose": "Роза иссушителя",
+  "block.minecraft.wither_skeleton_skull": "Череп скелета-иссушителя",
+  "block.minecraft.wither_skeleton_wall_skull": "Настенный череп скелета-иссушителя",
+  "effect.minecraft.wither": "Иссушитель",
+  "entity.minecraft.wither": "Иссушитель",
+  "entity.minecraft.wither_skeleton": "Скелет-иссушитель",
+  "entity.minecraft.wither_skull": "Череп иссушителя",
+  "item.minecraft.wither_skeleton_spawn_egg": "Яйцо призыва скелета-иссушителя",
+  "item.minecraft.wither_spawn_egg": "Яйцо призыва иссушителя",
+  "painting.minecraft.wither.title": "Иссушитель"
+}

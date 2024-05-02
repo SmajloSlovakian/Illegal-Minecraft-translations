@@ -1,0 +1,14 @@
+{
+  "block.minecraft.purpur_block": "Bloque de púrpur",
+  "block.minecraft.purpur_pillar": "Pilar de púrpur",
+  "block.minecraft.purpur_slab": "Losa de púrpur",
+  "block.minecraft.purpur_stairs": "Escaleras de púrpur",
+  "entity.minecraft.mooshroom": "Champiñaca",
+  "item.minecraft.mooshroom_spawn_egg": "Generar Champiñaca",
+  "key.keyboard.end": "Fin",
+  "options.biomeBlendRadius.1": "Ninguno (Más rápido)",
+  "subtitles.entity.mooshroom.convert": "Champiñaca se transforma",
+  "subtitles.entity.mooshroom.eat": "Champiñaca come",
+  "subtitles.entity.mooshroom.milk": "Champiñaca es ordeñada",
+  "subtitles.entity.mooshroom.suspicious_milk": "Champiñaca es ordeñada sospechosamente"
+}

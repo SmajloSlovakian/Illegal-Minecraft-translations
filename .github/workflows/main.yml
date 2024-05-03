@@ -1,5 +1,10 @@
 name: Publish to Modrinth
 on: [ workflow_dispatch, push ]
+
+concurrency:
+  group: publishingGroup
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest

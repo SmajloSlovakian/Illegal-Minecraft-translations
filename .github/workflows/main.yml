@@ -1,5 +1,5 @@
 name: Publish to Modrinth
-on: [ workflow_dispatch, push ]
+on: [ workflow_dispatch ]
 
 concurrency:
   group: publishingGroup

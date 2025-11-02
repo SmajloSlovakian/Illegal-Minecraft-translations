@@ -26,7 +26,7 @@ jobs:
           modrinth-id: 'illegal-mct'
           modrinth-token: "${{secrets.MODRINTH_TOKEN}}"
           name: "${{steps.date.outputs.date}}"
-          version: "1.20.5"
+          version: "1.21.10"
           game-versions: ">=1.13"
           files: "Illegalmc/IllegalMCT.zip"
           loaders: "minecraft"

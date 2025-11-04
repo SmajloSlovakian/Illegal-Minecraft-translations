@@ -9,6 +9,7 @@
   "advancements.end.respawn_dragon.description": "Возродите финального дракона",
   "advancements.end.respawn_dragon.title": "Конец... Опять...",
   "advancements.end.root.title": "Конец",
+  "advancements.husbandry.netherite_hoe.description": "Используйте Адский слиток, чтобы улучшить мотыгу, а затем заново оцените ваши жизненные выборы",
   "advancements.nether.distract_piglin.description": "Привлеките внимание свинорылов золотом",
   "advancements.nether.explore_nether.description": "Пройдите все биомы Ада",
   "advancements.nether.root.title": "Ад",
@@ -112,12 +113,14 @@
   "subtitles.entity.enderman.teleport": "Проводник в конец телепортируется",
   "subtitles.entity.mooshroom.eat": "Муухомор ест",
   "subtitles.entity.piglin.death": "Свинорыл умирает",
+  "subtitles.item.armor.equip_netherite": "",
   "telemetry.property.minecraft_session_id.title": "Идентификатор сессии Майнкрафт",
   "telemetry.property.render_distance.title": "Дальность прорисовки",
+  "title.32bit.deprecation.realms.header": "Детектированна 32-бит система",
   "title.multiplayer.disabled.banned.permanent": "Ваша учётная запись заблокирована от игр онлайн",
   "title.multiplayer.disabled.banned.temporary": "Ваша учётная запись временно заблокирована от игр онлайн",
   "title.multiplayer.realms": "Многопользовательская игра (Реалмс)",
   "trim_material.minecraft.netherite": "Незеритовый материал",
   "trim_material.minecraft.redstone": "Краснокаменный материал",
-  "upgrade.minecraft.netherite_upgrade": "Незеритовое улучшение"
+  "upgrade.minecraft.netherite_upgrade": "Адское улучшение"
 }

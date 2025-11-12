@@ -1,0 +1,15 @@
+{
+  "advancements.end.respawn_dragon.title": "Das Ende... schon wieder...",
+  "advancements.end.root.title": "Das Ende",
+  "advancements.nether.root.title": "Nieder",
+  "advancements.story.enter_the_end.title": "Das Ende?",
+  "advancements.story.root.title": "Minecraft",
+  "biome.minecraft.the_end": "Das Ende",
+  "block.minecraft.comparator": "Rotstein Komparator",
+  "block.minecraft.end_gateway": "",
+  "block.minecraft.end_stone": "Ende Stein",
+  "block.minecraft.redstone_wall_torch": "Rotstein Fackel an der Wand",
+  "block.minecraft.repeater": "Rotstein Verstärker",
+  "gui.loadingMinecraft": "Minecraft laden",
+  "item.minecraft.redstone": "Rotsteinstaub"
+}

@@ -1,0 +1,22 @@
+{
+  "advMode.mode.redstoneTriggered": "Potrebuje rudit",
+  "block.minecraft.comparator": "Ruditový porovnávač",
+  "block.minecraft.deepslate_redstone_ore": "Bridlicové ruditové ložisko",
+  "block.minecraft.redstone_block": "Kocka ruditu",
+  "block.minecraft.redstone_lamp": "Ruditová lampa",
+  "block.minecraft.redstone_ore": "Ruditové ložisko",
+  "block.minecraft.redstone_torch": "Ruditová fakľa",
+  "block.minecraft.redstone_wall_torch": "Nástenná ruditová fakľa",
+  "block.minecraft.redstone_wire": "Ruditový vodič",
+  "block.minecraft.repeater": "Ruditový opakovač",
+  "entity.minecraft.mooshroom": "Muchokrávka",
+  "flat_world_preset.minecraft.redstone_ready": "Pripravený na rudit",
+  "item.minecraft.mooshroom_spawn_egg": "Vajíčko s muchokrávkou",
+  "item.minecraft.redstone": "Ruditový prach",
+  "itemGroup.redstone": "Ruditové kocky",
+  "subtitles.entity.mooshroom.convert": "Premena muchokrávky",
+  "subtitles.entity.mooshroom.eat": "Jedenie muchokrávky",
+  "subtitles.entity.mooshroom.milk": "Dojenie muchokrávky",
+  "subtitles.entity.mooshroom.suspicious_milk": "Podozrivé dojenie muchokrávky",
+  "trim_material.minecraft.redstone": "Ruditový materiál"
+}

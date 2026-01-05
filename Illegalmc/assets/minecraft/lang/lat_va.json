@@ -1,0 +1,22 @@
+{
+  "entity.minecraft.creeper": "Serpetor",
+  "entity.minecraft.end_crystal": "Crystallum Finalis",
+  "entity.minecraft.ender_dragon": "Draco Finalis",
+  "entity.minecraft.ender_pearl": "Margarita Finalis iacta",
+  "entity.minecraft.enderman": "Homo Finalis",
+  "entity.minecraft.endermite": "Acarus Finalis",
+  "entity.minecraft.eye_of_ender": "Oculus Finalis",
+  "entity.minecraft.ghast": "Larva",
+  "entity.minecraft.happy_ghast": "Larva laeta",
+  "entity.minecraft.hoglin": "Ferusporcus",
+  "entity.minecraft.mooshroom": "Vacca fungalis",
+  "entity.minecraft.piglin": "Homoporcus",
+  "entity.minecraft.piglin_brute": "Homoporcus brutus",
+  "entity.minecraft.shulker": "Concher",
+  "entity.minecraft.shulker_bullet": "Telum concheri",
+  "entity.minecraft.wither": "Deustor",
+  "entity.minecraft.wither_skeleton": "Sceletus deustoris",
+  "entity.minecraft.wither_skull": "Calva deustoris",
+  "entity.minecraft.zoglin": "Ferusporcus resurrectus",
+  "entity.minecraft.zombified_piglin": "Homoporcus resurrectus"
+}

@@ -1,1 +1,26 @@
-{}
+{
+  "advancements.nether.root.title": "Nezer",
+  "block.minecraft.nether_bricks": "Nezer g'isht",
+  "block.minecraft.nether_portal": "Nezer portali",
+  "block.minecraft.netherite_block": "Nezerit bloki",
+  "block.minecraft.netherrack": "Nezerak",
+  "block.minecraft.red_nether_brick_slab": "Qizil nezer g'isht plita",
+  "block.minecraft.red_nether_brick_stairs": "Qizil nezer g'isht zinapoya",
+  "block.minecraft.red_nether_brick_wall": "Qizil nezer g'isht devor",
+  "block.minecraft.red_nether_bricks": "Qizil nezer g'isht",
+  "gamerule.allowEnteringNetherUsingPortals": "Nezer bo'lsin",
+  "item.minecraft.nether_brick": "Nezer g'isht",
+  "item.minecraft.nether_star": "Nezer yulduz",
+  "item.minecraft.netherite_axe": "Nezer bolta",
+  "item.minecraft.netherite_boots": "Nezer etik",
+  "item.minecraft.netherite_chestplate": "Nezer ko'kraksovut",
+  "item.minecraft.netherite_helmet": "Nezer dubulg'a",
+  "item.minecraft.netherite_hoe": "Nezer ketmon",
+  "item.minecraft.netherite_ingot": "Nezer quyma",
+  "item.minecraft.netherite_leggings": "Nezerit shim",
+  "item.minecraft.netherite_pickaxe": "Nezer kirka",
+  "item.minecraft.netherite_shovel": "Nezer belkurak",
+  "item.minecraft.netherite_sword": "Nezer qilich",
+  "item.minecraft.quartz": "Nezer kvars",
+  "item.minecraft.smithing_template.netherite_upgrade.ingredients": "Nezerit quyma"
+}

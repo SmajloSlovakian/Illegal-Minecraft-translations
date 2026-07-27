@@ -33,6 +33,7 @@
   "death.attack.wither": "Hráč %1$s uschol",
   "death.attack.wither.player": "Hráč %1$s sa vyparil pri boji s %2$s",
   "entity.minecraft.mooshroom": "Muchokrávka",
+  "entity.minecraft.wither_skeleton": "Zoschnutý kostlivec",
   "flat_world_preset.minecraft.redstone_ready": "Pripravený na rudit",
   "item.minecraft.mooshroom_spawn_egg": "Vajíčko s muchokrávkou",
   "item.minecraft.redstone": "Ruditový prach",

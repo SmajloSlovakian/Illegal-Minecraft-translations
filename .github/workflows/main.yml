@@ -1,0 +1,32 @@
+name: Publish to Modrinth
+on: [ workflow_dispatch, push ]
+
+concurrency:
+  group: publishingGroup
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch
+        uses: actions/checkout@v4
+      - name: Zip Folder
+        run: |
+          cd Illegalmc
+          zip -0 -r IllegalMCT.zip .
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+      - name: Publishing to Modrinth
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          # Only include this section if you wish to publish
+          # your assets on Modrinth.
+          modrinth-id: 'illegal-mct'
+          modrinth-token: "${{secrets.MODRINTH_TOKEN}}"
+          name: "${{steps.date.outputs.date}}"
+          version: "1.21.10"
+          game-versions: ">=1.13"
+          files: "Illegalmc/IllegalMCT.zip"
+          loaders: "minecraft"
